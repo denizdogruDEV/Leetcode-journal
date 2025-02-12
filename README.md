@@ -1,1 +1,1 @@
-# Leetcode-journal
+# Collection of my Leetcode solutions
